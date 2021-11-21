@@ -1,0 +1,32 @@
+{
+  "insurance": [
+    {
+      "Pno": 101111,
+      "PHName": "Navnath",
+      "PA": 1000000,
+      "AFEMI": 10000,
+      "NName": "Raj"
+    },
+    {
+      "Pno": 101112,
+      "PHName": "ABCD",
+      "PA": 1000000,
+      "AFEMI": 10000,
+      "NName": "Raj"
+    },
+    {
+      "Pno": 101113,
+      "PHName": "Abcd",
+      "PA": 1000000,
+      "AFEMI": 10000,
+      "NName": "varun"
+    },
+    {
+      "Pno": 101114,
+      "PHName": "Raj",
+      "PA": 1000000,
+      "AFEMI": 10000,
+      "NName": "Navnath"
+    }
+  ]
+}
